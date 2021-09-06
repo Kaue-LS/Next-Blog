@@ -1,7 +1,8 @@
 ---
-title: 'Como aprender AWS'
-date: '2020-09-11'
+title: 'Meus proximos Projetos'
+date: '2021-10-11'
 ---
+<br></br>
 
 Ad eiusmod **magna ipsum laboris culpa deserunt nulla occaecat** dolor aute nostrud non reprehenderit. Minim officia laboris ex eu sit ullamco eu cupidatat eiusmod qui. Magna enim cupidatat qui duis anim. Ipsum quis ea cillum veniam. Nostrud incididunt sunt aliqua id aliquip laborum veniam elit eu consectetur do deserunt. Sunt fugiat adipisicing magna eiusmod eu eiusmod tempor proident adipisicing aliqua fugiat laborum ad excepteur.
 

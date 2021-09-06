@@ -1,18 +1,17 @@
 ---
 title: 'Como eu resolvi virar programador'
-date: '2020-01-25'
+date: '2021-09-05'
 ---
+<br><br>
+Minhas primeiras intenções surgiram enquanto eu estava no ultimo do fundamental da escola, com isso decidi fazer o vestibular da **ETEC**, uma escola técnica da Centro Paula Souza, em Ilha Solteira, por questões de ser uma cidade tranquila compara a grande cidade de São Paulo.
 
-Minim sit id proident tempor enim cillum consequat fugiat proident dolore sit consectetur cupidatat. Officia anim consectetur fugiat velit eu duis irure. Do minim velit officia ut Lorem incididunt laborum. Occaecat est culpa nostrud amet ut do quis. Tempor cillum ipsum commodo exercitation.
+Meus interesses na área de tecnologia começou desde pequeno, gosto de jogar video games desde criança, não importando se for de console ou em computador, e com isso eu me acostumei a ficar muito tempo com a cara "colada" no computador, hoje em dia eu uso o meu vício para programar e treinar meu conhecimento nas linguagens de programação.
+<br><br>
 
-Aliquip velit cillum veniam reprehenderit deserunt quis reprehenderit veniam deserunt. Minim duis labore fugiat cillum laboris labore excepteur excepteur aliquip exercitation magna minim in proident. Consectetur minim adipisicing non elit nostrud eiusmod aute sunt quis do reprehenderit sint duis occaecat. Incididunt laboris consectetur mollit officia veniam sit cillum ea. Fugiat mollit dolor adipisicing laborum consequat ipsum adipisicing ullamco in culpa et fugiat cillum cupidatat.
+Durante meu 1° ano do Ensino Médio, ele era integrado ao curso de **Desenvolvimento de Sistemas**, então eu comecei a ver mais a fundo sobre como funciona os computadores, como as páginas de sites que conhecemos funcionam nas suas partes estrutural e lógica. 
 
-Enim **occaecat magna et magna id labore in esse amet magna** officia. Labore elit ex nisi anim ex eu magna occaecat ullamco elit ut voluptate nisi aliquip. Consequat aliquip eu nisi ex cillum. Cupidatat sit officia proident deserunt sint magna Lorem exercitation voluptate ea labore.
+Entre esses ensinos, o que mais aumento o meu interesse foi quando eu conheci a parte de **Análise de Sistemas**, principalmente como funciona nas empresas, e os métodos de conseguir analisar os requísitos de um site, com o objetivo de atender o pedido do cliente. Nesse momento comecei a ficar interessado pois gostei dos objetivos e as perguntas que sãp feitos para procurar requisistos para a criação de um software. Não só foi a análise de requisítos que atingiu meu interesse, como também o ensino de **Lógica de programação e Algoritmos**, aprendi sobre fluxogramas, a lógica da programação escrevendo no caderno, e depois com a linguagem **C#** no **Visual Studio**. Contudo, deicidir focar na área de programação, na qual eu me dou bem na parte de ficar muito tempo no computador, e que eu gosto muito, principalmente na parte **Front-End**.
+<br><br>
 
-Cupidatat minim sunt do anim elit ad proident velit. Aliquip do consectetur ullamco id ut sit fugiat incididunt ullamco nisi ullamco. Do reprehenderit magna cillum ullamco ea consectetur ea irure sit Lorem exercitation qui cupidatat irure. Incididunt et amet ad adipisicing sint pariatur ut nostrud reprehenderit eiusmod anim Lorem. Veniam consequat incididunt voluptate nostrud anim ullamco reprehenderit Lorem excepteur. Ex magna amet esse officia mollit sint in.
-
-Eu Lorem mollit ex laborum esse velit enim laborum. Cillum fugiat laboris laborum laboris quis eiusmod aliquip officia est aute ut labore. Incididunt aliquip mollit anim culpa aliquip. Tempor deserunt cillum laborum aliquip consectetur duis id voluptate. Id pariatur Lorem nisi aliquip voluptate aliqua commodo irure est adipisicing commodo sunt cillum ut.
-
-Eu proident *voluptate* ex nisi laboris est dolor commodo. Nulla laborum tempor occaecat ullamco sit. Voluptate irure occaecat ex tempor qui nostrud qui enim velit veniam adipisicing tempor elit velit. Proident dolor tempor ipsum commodo ipsum consequat voluptate tempor enim consectetur officia anim. Aliqua culpa eiusmod sunt velit qui ipsum enim do duis. Sint ut velit dolor ex.
-
-Irure est aliquip qui incididunt aliquip ea ipsum sint do elit duis officia excepteur. Exercitation tempor excepteur laboris nostrud duis ipsum dolore eiusmod adipisicing. Lorem ad est pariatur fugiat culpa eu. Cupidatat ullamco eiusmod ad veniam adipisicing excepteur proident in occaecat do.
+Percorrendo até o meu 3° e último ano do Ensino Médio, pensava que todo o meu conhecimento para poder entrar na área de programação web não fosse o suficiente para conseguir entrar no mercado de trabalho, além dos problemas pessoas que eu enfrentava e o Trabalho de Conclusão de Curso pra terminar. Não sabia como dar os próximos passos para alcançar meu objetvo, foi nesse tempo que em uma palestra trasmitida no Youtube na minha escola, estava tendo uma introdução sobre um curso online de programação que ajudava a inserir os alunos que além de aprenderem o essencial na programação, são inseridos ao mercado de trabalho, e que o curso só deve ser pago quando o aluno conseguir ter um trabalho com o salário que alcança o mínimo pedido.
+ Decidi entrar com o otimismo que conseguirei alcnaçar minhas metas com a ajuda do curso, que atualmente até onde estou, ele esta sendo de grande ajuda a continuar a estudar e ficar motivado a seguir em frente, e tendo ótimos resultados com o conhecimento que adquiri.

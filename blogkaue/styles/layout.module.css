@@ -1,15 +1,28 @@
 .container {
-    max-width: 36rem;
+    max-width: 50rem;
     padding: 0 1rem;
-    margin: 3rem auto 6rem;
+    margin: 3rem auto auto auto;
   }
-  
+ 
   .header {
+    
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  
+  .children{
+    background-color:rgb(144, 148, 158) ;
+    padding: 40px 50px;
+    width: 100%;
+  }
+  .areaImage{
+    margin: 1rem auto auto auto;
+    background:linear-gradient(rgb(29, 28, 28),rgb(51, 51, 51) );
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .headerImage {
     width: 6rem;
     height: 6rem;
@@ -21,7 +34,11 @@
   }
   
   .borderCircle {
-    border-radius: 9999px;
+    margin: 20px 0px 10px 0;
+    box-shadow: black 0px 0px 30px;
+    border: 5px solid rgb(24, 24, 24);
+    width: 60%;
+    border-radius:100%;
   }
   
   .heading2XL {
@@ -30,18 +47,46 @@
     font-weight: 800;
     letter-spacing: -0.05rem;
     margin: 1rem 0;
+    text-shadow: #004ea7 0px 0px 10px;
+    color: #3892f8;
   }
   
   .headingLg {
-    font-size: 1.5rem;
+    font-size: 2rem;
     line-height: 1.4;
     margin: 1rem 0;
   }
-  
+  .title{
+    text-shadow: #012e61 0px 0px 5px;
+    color: #01254e;
+    letter-spacing: 2px;
+  }
+  .paragraph{
+    text-indent: 3rem;
+  }
+  .blogArea{
+ 
+    padding: 10px 20px;
+    width: 55%;
+  }
+  .data{
+    margin: auto 10px;
+  }
+  .list{
+    margin:5px 0;
+  }
   .backToHome {
-    margin: 3rem 0 0;
+    background-color:rgb(144, 148, 158) ;
+       width: 50%;
+    margin: 2rem 0 ;
+    padding: 20px 20px;
   }
   
   .colorLink {
     color: inherit;
+    transition: 300ms linear;
+  }
+  .colorLink:hover{
+    box-shadow: #004ea7 0px 0px 30px;
+    border: 5px solid #3892f8;
   }

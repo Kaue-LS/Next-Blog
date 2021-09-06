@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import Image from 'next/image'
 import style from '../styles/layout.module.css'
 
 const name = 'Kauê Leite'
@@ -23,19 +24,19 @@ export default function Layout({home,children}){
                 {/* Uma condição se caso nao for a home que esta na tela, o home esta no index atribuito a tag do layout */}
                 {
                     home?(
-                        <>
+                        <div className={`${style.areaImage}`}>
                         <img 
                         src="/Images/Me.png"
-                        className={`${style.header}${style.borderCircle}`}
+                        className={`${style.header} ${style.borderCircle}`}
                         alt={name}
                         />
                         <h1 className={style.heading2XL}>{name}</h1>
-                        </>
+                        </div>
                     ):(
-                        <>
+                        <div className={`${style.areaImage}`}>
                         <Link href="/">
                             <img 
-                            src='/Image/Me.png'
+                            src='/Images/Me.png'
                             className={`${style.colorLink} ${style.borderCircle}`}
                             alt={name}
                             />
@@ -45,15 +46,15 @@ export default function Layout({home,children}){
                             {name}
                             </Link>
                             </h2>
-                            </>
+                            </div>
                     )
                 }
             </header>
-            <main>{children}</main>
+            <main className={style.children}>{children}</main>
             {
                 // Condição que ira resultar do retorno se for diferente de home
                 !home &&(
-                    <div className={style.backToHome}>
+        <div className={style.backToHome}>
           <Link href="/">
             ⬅️ Voltar para a página inicial
           </Link>
