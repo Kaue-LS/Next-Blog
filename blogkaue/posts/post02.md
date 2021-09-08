@@ -5,6 +5,9 @@ date: '2021-09-05'
 <br><br>
 Minhas primeiras intenções surgiram enquanto eu estava no ultimo do fundamental da escola, com isso decidi fazer o vestibular da **ETEC**, uma escola técnica da Centro Paula Souza, em Ilha Solteira, por questões de ser uma cidade tranquila compara a grande cidade de São Paulo.
 
+<br><br>
+![ETEC](https://vestibulares2021.com.br/wp-content/uploads/2020/01/etec-1280x720-1.png)
+<br><br>
 Meus interesses na área de tecnologia começou desde pequeno, gosto de jogar video games desde criança, não importando se for de console ou em computador, e com isso eu me acostumei a ficar muito tempo com a cara "colada" no computador, hoje em dia eu uso o meu vício para programar e treinar meu conhecimento nas linguagens de programação.
 <br><br>
 
@@ -14,4 +17,7 @@ Entre esses ensinos, o que mais aumento o meu interesse foi quando eu conheci a 
 <br><br>
 
 Percorrendo até o meu 3° e último ano do Ensino Médio, pensava que todo o meu conhecimento para poder entrar na área de programação web não fosse o suficiente para conseguir entrar no mercado de trabalho, além dos problemas pessoas que eu enfrentava e o Trabalho de Conclusão de Curso pra terminar. Não sabia como dar os próximos passos para alcançar meu objetvo, foi nesse tempo que em uma palestra trasmitida no Youtube na minha escola, estava tendo uma introdução sobre um curso online de programação que ajudava a inserir os alunos que além de aprenderem o essencial na programação, são inseridos ao mercado de trabalho, e que o curso só deve ser pago quando o aluno conseguir ter um trabalho com o salário que alcança o mínimo pedido.
+<br><br>
+![Blue Edtech](https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif)
+<br><br>
  Decidi entrar com o otimismo que conseguirei alcnaçar minhas metas com a ajuda do curso, que atualmente até onde estou, ele esta sendo de grande ajuda a continuar a estudar e ficar motivado a seguir em frente, e tendo ótimos resultados com o conhecimento que adquiri.

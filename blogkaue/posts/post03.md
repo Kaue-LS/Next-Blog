@@ -4,12 +4,11 @@ date: '2021-10-11'
 ---
 <br></br>
 
-Ad eiusmod **magna ipsum laboris culpa deserunt nulla occaecat** dolor aute nostrud non reprehenderit. Minim officia laboris ex eu sit ullamco eu cupidatat eiusmod qui. Magna enim cupidatat qui duis anim. Ipsum quis ea cillum veniam. Nostrud incididunt sunt aliqua id aliquip laborum veniam elit eu consectetur do deserunt. Sunt fugiat adipisicing magna eiusmod eu eiusmod tempor proident adipisicing aliqua fugiat laborum ad excepteur.
+Não é ruim criar projetos desafiadores para nos aprimorar mais em determinadas linguagens, claro que tudo é a favor ao tempo permitido, nem todos que tem outras resposabilidades possuem tempo para treinar. Porém , não limites para a criatividade! Aqui estão alguns projetos pessoais que desenvovendo e também estudando em como faze-los.
+<br><br>
 
-Minim aliquip sint Lorem ex anim cupidatat aliquip dolore incididunt. Ipsum consequat dolor nisi elit et. Anim esse in nostrud pariatur ipsum sunt sunt aliqua sunt sint dolore. Cillum irure commodo commodo ea sint cillum incididunt quis deserunt.
-
-Quis nisi consequat esse ex. Reprehenderit eiusmod eu adipisicing commodo in cillum sint adipisicing. Labore irure Lorem excepteur quis enim duis id non consequat qui nisi excepteur anim. Enim enim minim voluptate reprehenderit nisi ad. Enim Lorem cillum consectetur amet ea amet do cillum labore culpa sint consequat. Sit officia est sit deserunt.
-
-Commodo mollit exercitation laborum sint do Lorem culpa ipsum ut ipsum nostrud nostrud et enim. Aute consectetur anim culpa ea sunt exercitation sint sint consequat aliquip. In esse pariatur est enim laborum excepteur minim non Lorem adipisicing dolor ea occaecat proident.
-
-Deserunt magna sit nostrud sit laboris magna laborum. Dolor proident id aute proident cupidatat proident in aliqua tempor eiusmod sint et. Mollit mollit quis tempor ex. Occaecat cupidatat ad cillum Lorem reprehenderit non dolore esse eu laborum consectetur ea laboris aliqua.
+- [Interface do PS4](https://github.com/Kaue-LS/Copia-interface-do-PS4.git):                                                                              
+Projeto na qual estou usando React.Js com o SASS para tentar criar uma cópia da interface. Na qual caso queiram acompanha o desenvolvimento basta clicar no título e sera encaminhado ao respositório no GitHub. Por questão de alguns ícones serem recortados, o objetivo é aproximar a uma certa semelhança com as suas animações e interface, não será uma cópia 100% idênticas,pois não havera objetivos em cada objeto na tela, o que vai valer nesse repósitorios são as animações.
+<br><br>
+- Undertale:                                                                                                                                                 
+Já ouviram falar de um jogo chamado Undertale? Se caso não, é  um jogo 2D com gráficos e design semelhantes aos jogos de antigamente, com músicas e história marcantes para quem quiser jogar, eu recomendo experimentar caso queira joga-lo. Mas a idéia desse projeto ainda não totalmente decidida em como fazer, ainda estou pesquisando formas de desenvolver. O criador usou um software diferente com o que eu pensei em fazer, que no caso pensei em fazer usando JavaScript, o objetivo desse projeto é fazer o mesmo estilo e cenas de combates semelhantes aos que são no próprio jogo.
