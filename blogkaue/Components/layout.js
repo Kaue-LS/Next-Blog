@@ -56,7 +56,7 @@ export default function Layout({home,children}){
                 !home &&(
         <div className={style.backToHome}>
           <Link href="/">
-            ⬅️ Voltar para a página inicial
+            Voltar para inicial
           </Link>
         </div>
                 )
