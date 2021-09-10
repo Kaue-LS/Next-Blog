@@ -34,6 +34,9 @@ export default function Home({dadosDosPosts}) {
          }
        </ul>
      </section>
+     <section>
+       
+     </section>
    </Layout>
   )
 }

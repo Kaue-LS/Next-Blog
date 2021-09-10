@@ -12,6 +12,8 @@
   }
   .children{
     background-color:rgb(144, 148, 158) ;
+    z-index: 1;
+    box-shadow: rgb(138, 136, 136) 0px  0px 10px 0px;
     padding: 40px 50px;
     width: 100%;
     border-bottom-left-radius: 10px;
@@ -20,7 +22,9 @@
   .areaImage{
     margin: 1rem auto auto auto;
     background:linear-gradient(rgb(29, 28, 28),rgb(51, 51, 51) );
+    box-shadow: rgb(138, 136, 136) 0px  0px 10px 0px;
     display: flex;
+    z-index: 1;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -47,12 +51,12 @@
   }
   
   .heading2XL {
+    animation: efeito infinite 5s 2s normal;
     font-size: 2.5rem;
     line-height: 1.2;
     font-weight: 800;
     letter-spacing: -0.05rem;
     margin: 1rem 0;
-    text-shadow: #004ea7 0px 0px 10px;
     color: #3892f8;
   }
   
@@ -109,6 +113,20 @@
     margin: 10px auto;
   }
 
+
+  @keyframes efeito{
+    0%{
+      text-shadow: none;
+    }
+    50%{
+      text-shadow: #0361cc 0px 0px 25px;
+
+    }
+    100%{
+      text-shadow: none;
+
+    }
+  }
   @media (max-width:800px) {
     .backToHome {
          width: 60%;
