@@ -1,8 +1,7 @@
-import Layout from "../../components/layout";
-import { pegarTodosOsIds, pegarDadosDoPost } from "../../lib/posts";
+import Layout from "../../../components/layout";
+import { pegarTodosOsIds, pegarDadosDoPost } from "../../../lib/postsAbout";
 import Head from "next/head";
-import Date from '../../components/date';
-import posts from '../../styles/posts.module.css';
+import Date from '../../../components/date';
 
 
 export default function Post({ dadosDosPosts }) {

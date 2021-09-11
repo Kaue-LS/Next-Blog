@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Layout, { siteTitle } from '../components/layout';
 import style from '../styles/layout.module.css';
-import { pegarPostsPorData } from '../lib/posts';
+import { pegarPostsPorData } from '../lib/postsAbout';
 import Link from 'next/link';
 import Date from '../components/date';
 // Todos os arquivos js serao como se fosse caminhos url
@@ -14,7 +14,7 @@ export default function Home({dadosDosPosts}) {
      </Head>
 
      <section>
-       <p className={style.paragraph}>Aqui esta a lista sobre projetos que desenvolvi. Muitos deles foram feitos graças ao curso da Blue Edtech, há também o que foi desenvolvido como Trabalho de Conclusão de Curso (TCC), mas há outros que planejo desenvolver e destacar aqui futuramente. </p>
+       <p className={style.paragraph}>Ola! Bem vindo ao meu blog, aqui você além de obter algumas informações sobre mim, também poderá conhecer alguns projetos que desenvolvi.</p>
      </section>
 
      <section className={style.blogArea}>
@@ -23,7 +23,7 @@ export default function Home({dadosDosPosts}) {
          {
            dadosDosPosts.map(({id,date,title})=>(
              <li key={id}  className={style.list}>
-               <Link href={`/posts/${id}`}>
+               <Link href={`/posts/about/${id}`}>
                  {title}
                </Link>
                <small className={style.data}>
@@ -33,10 +33,18 @@ export default function Home({dadosDosPosts}) {
            ))
          }
        </ul>
+       <section>
+       <li  className={style.list}>
+         <Link href='/projects'>
+           Projetos que desenvolvi
+         </Link>
+         <small className={style.data}>
+                 Meus projetos.
+               </small>
+       </li>
+       </section>
      </section>
-     <section>
-       
-     </section>
+  
    </Layout>
   )
 }
