@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
 import style from "../styles/layout.module.css";
-
 const name = "Kauê Leite";
 export const siteTitle = "Kauê Leite/Desenvolvedor Front End";
 
