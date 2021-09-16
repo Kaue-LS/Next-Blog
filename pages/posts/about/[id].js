@@ -1,4 +1,4 @@
-import Layout from "../../../components/layout";
+import Layout from "../../../Components/layout";
 import { pegarTodosOsIds, pegarDadosDoPost } from "../../../lib/postsAbout";
 import Head from "next/head";
 import Date from '../../../components/date';

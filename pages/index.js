@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Layout, { siteTitle } from '../components/layout';
+import Layout, { siteTitle } from '../Components/layout';
 import style from '../styles/layout.module.css';
 import { pegarPostsPorData } from '../lib/postsAbout';
 import Link from 'next/link';
