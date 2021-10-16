@@ -1,7 +1,6 @@
 import Layout from "../../../Components/layout";
 import { pegarTodosOsIds, pegarDadosDoPost } from "../../../lib/postsAbout";
 import Head from "next/head";
-import Date from '../../../components/date';
 
 
 export default function Post({ dadosDosPosts }) {
@@ -17,7 +16,6 @@ export default function Post({ dadosDosPosts }) {
 
         {/* Data do post */}
         <div>
-          <Date dateString={dadosDosPosts.date} />
         </div>
 
         {/* Conteúdo do post em html */}

@@ -1,7 +1,6 @@
 import Layout from "../../../components/layout";
 import { pegarTodosOsIds, pegarDadosDoPost } from "../../../lib/postsProject";
 import Head from "next/head";
-import Date from '../../../Components/date';
 
 
 
@@ -17,9 +16,7 @@ export default function Post({ dadosDosPosts }) {
         <h1>{dadosDosPosts.title}</h1>
 
         {/* Data do post */}
-        <div>
-          <Date dateString={dadosDosPosts.date} />
-        </div>
+      
 
         {/* Conteúdo do post em html */}
         <div dangerouslySetInnerHTML={{ __html: dadosDosPosts.conteudoHtml }} />

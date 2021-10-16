@@ -3,7 +3,6 @@ import Layout, { siteTitle } from '../Components/layout';
 import style from '../styles/layout.module.css';
 import { pegarPostsPorData } from '../lib/postsAbout';
 import Link from 'next/link';
-import Date from '../components/date';
 // Todos os arquivos js serao como se fosse caminhos url
 // Layout importado como home sera o principal e o titles que esta importado no arquivo Layout
 export default function Home({dadosDosPosts}) {
@@ -27,7 +26,6 @@ export default function Home({dadosDosPosts}) {
                  {title}
                </Link>
                <small className={style.data}>
-                 <Date dateString={date}/>
                </small>
              </li>
            ))
